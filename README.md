@@ -1,1 +1,0 @@
-# Projekt-z-SQL-Verze-2
